@@ -9,6 +9,7 @@ const open = require('open');
 /**
  * Flag indicating whether webpack compiled for the first time.
  * @type {boolean}
+ * 
  */
 let isInitialCompilation = true;
 
